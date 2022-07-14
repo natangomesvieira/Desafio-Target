@@ -9,7 +9,7 @@ int main(int argc, char** argv) {
         ++k;        //incrementa 1 ao valor antes de passar para a soma
         soma += k;  //soma = soma + k
     }
-    //exibe o resultado
+    //exibe o resultado da soma
     printf("Resultado da soma = %d\n", soma);
     
     return (EXIT_SUCCESS);
